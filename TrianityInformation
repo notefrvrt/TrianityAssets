@@ -1,0 +1,26 @@
+Request served by 570e1c1a-51aa-4f3e-a340-5d6d805cc095
+
+HTTP/1.1 GET /
+
+Host: echo.websocket.events
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+X-Forwarded-For: 90.189.4.95
+Connection: close
+Sec-Ch-Ua-Mobile: ?0
+Connect-Time: 0
+Total-Route-Time: 0
+Sec-Fetch-Mode: navigate
+X-Request-Id: 0a504f0c-a6c8-4c87-b728-d3ce55863fba
+Sec-Fetch-Dest: document
+Accept-Language: ru,en;q=0.9
+X-Forwarded-Proto: https
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126", "YaBrowser";v="24.7", "Yowser";v="2.5"
+Sec-Ch-Ua-Platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br, zstd
+X-Forwarded-Port: 443
+Via: 1.1 vegur
+Upgrade-Insecure-Requests: 1
+X-Request-Start: 1723360844849
